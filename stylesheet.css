@@ -1,0 +1,45 @@
+.title {
+    color:blueviolet;
+    width: 1170px;
+    padding: 0 15px;
+    opacity:0.7;
+  } 
+
+  .title2 {
+    color:blue;
+    width: 1170px;
+    padding: 0 15px;
+    opacity:0.3;
+  } 
+
+.container{
+    color:White;
+    padding: 180px 0 500px 0;
+    background-image:url("/Users/asamikizaki/Desktop/HTML勉強/image/IMG_8770.JPG");
+    background-size:cover;
+}
+
+.btn {
+    padding: 8px 24px;
+    color: white;
+    display: inline-block;
+    opacity: 0.8;
+    background-color: #239b76;
+    box-shadow: 0 7px #1a7940;
+    transition: all 0.1s;
+}
+
+.btn:hover {
+    opacity: 1;
+}
+
+.btn:active {
+    position:relative;
+    top: 7px;
+    box-shadow:none;
+}
+
+
+a{
+    text-decoration: none;
+}
